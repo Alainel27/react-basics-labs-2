@@ -2,6 +2,8 @@
 
 This is the react-basics-labs
 
-The setup lab
-the lab one 
-and the lab two
+- The setup lab
+
+- the lab one
+
+- and the lab two
