@@ -1,3 +1,7 @@
-# react-basics-labs-2
+# react-basics-labs-
 
-hello 4 th time
+This is the react-basics-labs
+
+The setup lab
+the lab one 
+and the lab two
